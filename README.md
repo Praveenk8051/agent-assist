@@ -1,4 +1,4 @@
-# Agent-Check
+# Agent-Assist
 
 Repository containing various agent implementations:
 
